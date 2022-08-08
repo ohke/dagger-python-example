@@ -2,6 +2,10 @@
 
 DockerでCI/CDパイプラインの実装を行うツール **[Dagger](https://dagger.io/)** をPythonで使ってみた非公式のexampleレポジトリです。
 
+こちらで解説記事も書いています。
+
+[DaggerでPythonのCIを実装してGitHub Actionsで動かしてみる - け日記](https://ohke.hateblo.jp/entry/2022/08/08/184500)
+
 ## 前提
 
 自身の環境で実行する場合は、以下を予めインストールしてください。
